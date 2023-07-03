@@ -7,6 +7,6 @@ Created with CodeSandbox
 
 # Screenshot 
 
-https://github.com/D3lfik/Todo-list-Test/blob/main/todo-list-test%20.png
+![Todolist](https://github.com/D3lfik/Todo-list-Test/blob/main/todo-list-test%20.png)
 
 
